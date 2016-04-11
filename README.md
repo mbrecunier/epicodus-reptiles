@@ -12,6 +12,10 @@ The user will be prompted to choose one of three animals to learn about. The pag
 
 * Clone this repository
 * Open in a standard web browser
+* 
+--or
+
+* View on [GitHub Pages] (http://mbrecunier.github.io/epicodus-reptiles/)
 
 ## Known Bugs
 
