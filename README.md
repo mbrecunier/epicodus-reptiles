@@ -19,7 +19,7 @@ The user will be prompted to choose one of three animals to learn about. The pag
 
 ## Known Bugs
 
-No known bugs.
+Popup box not accepting input properly
 
 ## Support and contact details
 
